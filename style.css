@@ -421,7 +421,3 @@ footer p {
 html {
   max-width: 99vw;
 }
-
-.tooWide {
-  max-width: 50%;
-}
